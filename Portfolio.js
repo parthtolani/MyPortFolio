@@ -9,7 +9,7 @@ function closeModal() {
 
 window.onload = function () {
   const textElement = document.getElementById("typewriter");
-  const texts = ["Parth Tolani", "A Front-End Developer"];
+  const texts = ["Parth Tolani", "A Software Developer"];
   let textIndex = 0;
   let charIndex = 0;
   let isDeleting = false;
